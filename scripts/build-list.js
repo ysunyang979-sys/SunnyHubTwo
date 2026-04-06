@@ -8,7 +8,10 @@ const outputFile = path.join(__dirname, '../data.json');
 const categories = [
     { name: "合租女室友", keywords: ["合租"] },
     { name: "晨曦战队", keywords: ["晨曦", "cx"] },
-    { name: "永劫无间", keywords: ["永劫", "沈妙", "顾清寒", "玉玲珑", "妖刀姬"] },
+    { name: "欲望飞行", keywords: ["飞行"] },
+    { name: "穿越火线", keywords: ["穿越火线"] },
+    { name: "流光", keywords: ["流光"] },
+    { name: "死或生", keywords: ["死或生"] },
     { name: "其他", keywords: [] }
 ];
 
